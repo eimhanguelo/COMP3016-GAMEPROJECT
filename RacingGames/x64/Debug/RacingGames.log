@@ -1,0 +1,29 @@
+﻿  camera.cpp
+E:\3D-Racing-Game\RacingGames\include\camera.h(56,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\3D-Racing-Game\RacingGames\camera.cpp(5,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\3D-Racing-Game\RacingGames\camera.cpp(99,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\3D-Racing-Game\RacingGames\camera.cpp(100,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  loadobj.cpp
+E:\3D-Racing-Game\RacingGames\loadobj.cpp(32,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\3D-Racing-Game\RacingGames\loadobj.cpp(37,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\3D-Racing-Game\RacingGames\loadobj.cpp(122,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\3D-Racing-Game\RacingGames\loadobj.cpp(123,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+E:\3D-Racing-Game\RacingGames\include\learnopengl\mesh.h(93,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\3D-Racing-Game\RacingGames\main.cpp(1260,26): warning C4018: '<': signed/unsigned mismatch
+  mymodel.cpp
+E:\3D-Racing-Game\RacingGames\mymodel.cpp(59,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\3D-Racing-Game\RacingGames\mymodel.cpp(101,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\3D-Racing-Game\RacingGames\mymodel.cpp(223,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\3D-Racing-Game\RacingGames\mymodel.cpp(224,24): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\3D-Racing-Game\RacingGames\mymodel.cpp(274,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\3D-Racing-Game\RacingGames\mymodel.cpp(277,26): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  objshape.cpp
+  readmtl.cpp
+  stb_image.cpp
+  texture.cpp
+E:\3D-Racing-Game\RacingGames\texture.cpp(48,30): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  RacingGames.vcxproj -> E:\3D-Racing-Game\x64\Debug\RacingGames.exe
