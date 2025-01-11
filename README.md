@@ -12,17 +12,6 @@ Features
 - Realistic audio integration for engine sounds, collisions, and background music.
 - User-friendly interface with intuitive keyboard and mouse controls.
 
-Installation
-1. Clone this repository: git clone https://github.com/repo
-2. Ensure all required dependencies are installed:
-   - GLFW
-   - GLAD
-   - ASSIMP
-   - Irrklang
-   - glm
-3. Open the project in Visual Studio.
-4. Build the project, ensuring all dependencies are linked correctly.
-5. Run the executable generated in the build directory.
 
 Controls
 - Car Movement:
@@ -50,4 +39,4 @@ Future Enhancements
 - Procedural Track Generation: Create varied and unpredictable racetrack layouts.
 - Enhanced UI: Redesign menus and HUD for improved accessibility and aesthetics.
 
-Thank you for exploring the 3D Car Racing Game project. 
+
